@@ -1,8 +1,8 @@
 :HL["/kim-seonil-portfolio_LOTTEWELLFOOD/_next/static/css/477f02ac6874a752.css","style"]
-:HL["/kim-seonil-portfolio_LOTTEWELLFOOD/_next/static/css/41029cf3aa6335cf.css","style"]
+:HL["/kim-seonil-portfolio_LOTTEWELLFOOD/_next/static/css/ad974ae83d2bd0c0.css","style"]
 :HL["/kim-seonil-portfolio_LOTTEWELLFOOD/fonts/Archivo-Var.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/kim-seonil-portfolio_LOTTEWELLFOOD/fonts/Pretendard-Regular.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/kim-seonil-portfolio_LOTTEWELLFOOD/fonts/Pretendard-SemiBold.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/kim-seonil-portfolio_LOTTEWELLFOOD/fonts/Pretendard-Bold.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/kim-seonil-portfolio_LOTTEWELLFOOD/fonts/JetBrainsMono-Var.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"projects","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"daekyo","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"TvwiAVWIwuSC6N3OhSnrX"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"projects","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"daekyo","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"QT1y-FJmA4mskROhIdpYj"}
